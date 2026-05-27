@@ -1,8 +1,22 @@
 # Quranic Guidance Recommendation System
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20404414.svg)](https://doi.org/10.5281/zenodo.20404414)
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
+
+## Run Online (No Installation Required)
+
+[![Kaggle Part 1](https://img.shields.io/badge/Kaggle-TF--IDF%20Recommendation-blue)](https://www.kaggle.com/code/shagufakhan/quran-tfidf-recommendation)
+[![Kaggle Part 2](https://img.shields.io/badge/Kaggle-Semantic%20Search-blue)](https://www.kaggle.com/code/shagufakhan/quran-semantic-search)
+
+**Part 1 — TF-IDF Recommendation:**
+https://www.kaggle.com/code/shagufakhan/quran-tfidf-recommendation
+
+**Part 2 — Semantic Search:**
+https://www.kaggle.com/code/shagufakhan/quran-semantic-search
+
+Click the badges above to run either pipeline interactively
+on Kaggle without any local setup or installation.
 
 > **Disclaimer:** This system is for spiritual reflection and educational
 > reference only. It does not constitute religious rulings (fatwas).
